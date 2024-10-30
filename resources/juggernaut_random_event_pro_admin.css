@@ -1,0 +1,24 @@
+.jre_input {
+	padding: 4px 8px;
+	font-size: 1.7em;
+	line-height: 100%;
+	height: 1.7em;
+	width: 100%;
+	outline: 0;
+	margin: 6px 0px;
+	background-color: #fff;
+}
+
+.jre_container img.preview_thumbnail { float: right; }
+.jre_container { background-color: #ffffff; }
+.jre_title { color: #ffffff; background-color: #ff0000; }
+.jre_description { color: #000000; }
+
+.jre_custom_options_panel {
+	width: 33%;
+	float: left;
+}
+
+.jre_container .wp-post-image {
+	float: right; 
+}
